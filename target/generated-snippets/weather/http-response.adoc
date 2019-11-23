@@ -1,0 +1,14 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 144
+
+{
+  "temperature" : 286.72,
+  "weatherId" : 800,
+  "weatherIcon" : "01d",
+  "name" : "Barcelona",
+  "timestamp" : "2016-04-24T07:57:22Z"
+}
+----

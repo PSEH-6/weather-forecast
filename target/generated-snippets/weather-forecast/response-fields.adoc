@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`name`
+|`String`
+|Name of the weather forecast
+
+|`entries`
+|`Array`
+|Array of weather data
+
+|`entries[].weatherId`
+|`Number`
+|ID of the weather conditions
+
+|`entries[].weatherIcon`
+|`String`
+|ID of the weather icon
+
+|`entries[].temperature`
+|`Number`
+|Temperature in Kelvin
+
+|`entries[].timestamp`
+|`String`
+|ISO-8601 timestamp of the weather data
+
+|===

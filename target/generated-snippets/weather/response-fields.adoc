@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`name`
+|`String`
+|Name of the weather data
+
+|`weatherId`
+|`Number`
+|ID of the weather conditions
+
+|`weatherIcon`
+|`String`
+|ID of the weather icon
+
+|`temperature`
+|`Number`
+|Temperature in Kelvin
+
+|`timestamp`
+|`String`
+|ISO-8601 timestamp of the weather data
+
+|===

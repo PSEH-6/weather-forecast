@@ -1,0 +1,211 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 5302
+
+{
+  "name" : "Barcelona",
+  "entries" : [ {
+    "temperature" : 291.52,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-14T15:00:00Z"
+  }, {
+    "temperature" : 290.64,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-14T18:00:00Z"
+  }, {
+    "temperature" : 289.41,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-14T21:00:00Z"
+  }, {
+    "temperature" : 288.76,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-15T00:00:00Z"
+  }, {
+    "temperature" : 287.71,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-15T03:00:00Z"
+  }, {
+    "temperature" : 287.22,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-15T06:00:00Z"
+  }, {
+    "temperature" : 290.0,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-15T09:00:00Z"
+  }, {
+    "temperature" : 290.32,
+    "weatherId" : 802,
+    "weatherIcon" : "03d",
+    "timestamp" : "2016-04-15T12:00:00Z"
+  }, {
+    "temperature" : 289.96,
+    "weatherId" : 802,
+    "weatherIcon" : "03d",
+    "timestamp" : "2016-04-15T15:00:00Z"
+  }, {
+    "temperature" : 289.3,
+    "weatherId" : 802,
+    "weatherIcon" : "03d",
+    "timestamp" : "2016-04-15T18:00:00Z"
+  }, {
+    "temperature" : 287.38,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-15T21:00:00Z"
+  }, {
+    "temperature" : 286.85,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-16T00:00:00Z"
+  }, {
+    "temperature" : 286.58,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-16T03:00:00Z"
+  }, {
+    "temperature" : 286.59,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-16T06:00:00Z"
+  }, {
+    "temperature" : 290.98,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-16T09:00:00Z"
+  }, {
+    "temperature" : 291.91,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-16T12:00:00Z"
+  }, {
+    "temperature" : 291.14,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-16T15:00:00Z"
+  }, {
+    "temperature" : 290.14,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-16T18:00:00Z"
+  }, {
+    "temperature" : 289.1,
+    "weatherId" : 802,
+    "weatherIcon" : "03n",
+    "timestamp" : "2016-04-16T21:00:00Z"
+  }, {
+    "temperature" : 288.555,
+    "weatherId" : 800,
+    "weatherIcon" : "02n",
+    "timestamp" : "2016-04-17T00:00:00Z"
+  }, {
+    "temperature" : 287.672,
+    "weatherId" : 802,
+    "weatherIcon" : "03n",
+    "timestamp" : "2016-04-17T03:00:00Z"
+  }, {
+    "temperature" : 287.647,
+    "weatherId" : 803,
+    "weatherIcon" : "04d",
+    "timestamp" : "2016-04-17T06:00:00Z"
+  }, {
+    "temperature" : 289.96,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-17T09:00:00Z"
+  }, {
+    "temperature" : 289.717,
+    "weatherId" : 802,
+    "weatherIcon" : "03d",
+    "timestamp" : "2016-04-17T12:00:00Z"
+  }, {
+    "temperature" : 289.174,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-17T15:00:00Z"
+  }, {
+    "temperature" : 288.506,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-17T18:00:00Z"
+  }, {
+    "temperature" : 287.136,
+    "weatherId" : 802,
+    "weatherIcon" : "03n",
+    "timestamp" : "2016-04-17T21:00:00Z"
+  }, {
+    "temperature" : 286.706,
+    "weatherId" : 802,
+    "weatherIcon" : "03n",
+    "timestamp" : "2016-04-18T00:00:00Z"
+  }, {
+    "temperature" : 287.606,
+    "weatherId" : 803,
+    "weatherIcon" : "04n",
+    "timestamp" : "2016-04-18T03:00:00Z"
+  }, {
+    "temperature" : 288.083,
+    "weatherId" : 804,
+    "weatherIcon" : "04d",
+    "timestamp" : "2016-04-18T06:00:00Z"
+  }, {
+    "temperature" : 290.099,
+    "weatherId" : 803,
+    "weatherIcon" : "04d",
+    "timestamp" : "2016-04-18T09:00:00Z"
+  }, {
+    "temperature" : 290.38,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-18T12:00:00Z"
+  }, {
+    "temperature" : 290.314,
+    "weatherId" : 800,
+    "weatherIcon" : "01d",
+    "timestamp" : "2016-04-18T15:00:00Z"
+  }, {
+    "temperature" : 289.557,
+    "weatherId" : 800,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-18T18:00:00Z"
+  }, {
+    "temperature" : 287.28,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-18T21:00:00Z"
+  }, {
+    "temperature" : 286.566,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-19T00:00:00Z"
+  }, {
+    "temperature" : 285.747,
+    "weatherId" : 800,
+    "weatherIcon" : "01n",
+    "timestamp" : "2016-04-19T03:00:00Z"
+  }, {
+    "temperature" : 286.219,
+    "weatherId" : 802,
+    "weatherIcon" : "03d",
+    "timestamp" : "2016-04-19T06:00:00Z"
+  }, {
+    "temperature" : 289.678,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-19T09:00:00Z"
+  }, {
+    "temperature" : 290.422,
+    "weatherId" : 801,
+    "weatherIcon" : "02d",
+    "timestamp" : "2016-04-19T12:00:00Z"
+  } ]
+}
+----

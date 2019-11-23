@@ -1,0 +1,11 @@
+./api/weather/weekly/{country}/{city}
+|===
+|Parameter|Description
+
+|`country`
+|Name of the country
+
+|`city`
+|Name of the city
+
+|===
